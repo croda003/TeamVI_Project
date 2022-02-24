@@ -19,7 +19,7 @@ public class WeightPlatform extends SmartKart {
 		//
 	}
 	public void detectErrors() {
-		//detects if item hasnt been scanned
+		//detects if item hasn't been scanned
 	}
 
 }

@@ -8,9 +8,10 @@ package com.teamVI.project;
  *
  */
 public class SmartDock {
-	private boolean KartRack;
+	private boolean KartRack;//was here before
 	private String rackSize;
 	private String spray;
+	private float chargeCapacity;
 	
 	public void sanitize() {
 		//checks that cart is there to sanitize

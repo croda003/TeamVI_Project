@@ -9,15 +9,37 @@ package com.teamVI.project;
  */
 public class Customer {
 	
-	private String CustomerID;
+	private String CustomerID;//was her before
+	private String processorType;
+	private int numberOfProcessors;
+	private float ramMemory;
+	private float hardDiskMemory;
+	private String casingType;//?
 	
-	public void getCart() {
+	public void getCart() {//was here before
 		////checks the customer kart ID
 
 	}
 	
-	public void returnCart() {
+	public void returnCart() {//was here before
 		//checks if the customer return the Kart with the corresponding ID
 	}
+	
+	
+	public void turnOn() {
+		//
+	}
+	
+	public void turnOff() {
+		//
+	}
+	
+	public void mode() {
+		//
+	}
+	
+	
+	
+	
 
 }

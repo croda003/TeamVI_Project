@@ -11,7 +11,7 @@ package com.teamVI.project;
 public class SmartKart {
 	
 	
-	private String model;
+	private String model;//was here before
 	private int KartID;
 	private int year;
 	private String size;
