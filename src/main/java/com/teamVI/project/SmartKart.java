@@ -10,7 +10,36 @@ package com.teamVI.project;
  */
 public class SmartKart {
 	
-	private String QRcode;
+	
+	private String model;
+	private int KartID;
+	private int year;
+	private String size;
+	
+	
+	public void moveForward() {
+		//
+	}
+	
+	public void moveBackward() {
+		//
+	}
+	
+	public void stop() {
+		//
+	}
+	
+	public void turnLeft() {
+		//
+	}
+	
+	public void turnRight() {
+		//
+	}
+	
+	
+	
+	/**private String QRcode;
 	private String CartID;
 	private boolean TagPlug;
 	private boolean Motor;
@@ -28,6 +57,8 @@ public class SmartKart {
 	public void alert() {
 		//Alerts if the tag has not been returned
 	}
+	*/
+	
 	/**
 	 * @param args
 	 */

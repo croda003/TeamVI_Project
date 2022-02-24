@@ -9,12 +9,18 @@ package com.teamVI.project;
  */
 public class SmartDock {
 	private boolean KartRack;
+	private String rackSize;
+	private String spray;
 	
-	public void sanitizeKart() {
+	public void sanitize() {
 		//checks that cart is there to sanitize
 	}
 	
-	public void chargeKarat() {
+	public void chargingMode() {
 		//charges cart if cart requires it
+	}
+	
+	public void currentBatteryLife() {
+		//checks battery life on Kart
 	}
 }
