@@ -5,7 +5,7 @@ package com.teamVI.project;
  *
  */
 
-public class WeightPlatform extends SmartKart {
+public class WeightTracker extends SmartKart {
 	
 	
 	private String size;
@@ -13,10 +13,10 @@ public class WeightPlatform extends SmartKart {
 	private float weightCapacity;
 	
 	public void tare() {
-		//
+		//Calibrates actual weight in cart
 	}
 	public void matchItems() {
-		//
+		//matches item to their weight
 	}
 	public void detectErrors() {
 		//detects if item hasn't been scanned

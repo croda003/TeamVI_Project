@@ -18,28 +18,28 @@ public class SmartKart {
 	
 	
 	public void moveForward() {
-		//
+		//moves cart forward at a set speed
 	}
 	
 	public void moveBackward() {
-		//
+		//moves cart backward at a set speed
 	}
 	
 	public void stop() {
-		//
+		//Stops cart wheels
 	}
 	
 	public void turnLeft() {
-		//
+		//Turns front wheels left at a certain angle, set depending on the store size
 	}
 	
 	public void turnRight() {
-		//
+		//Turns front wheels right certain angle, set depending on the store size
 	}
 	
 	
 	
-	/**private String QRcode;
+	/**private String QRcode; // this code was archived as classes and design were changed
 	private String CartID;
 	private boolean TagPlug;
 	private boolean Motor;

@@ -22,6 +22,6 @@ public class SmartDock {
 	}
 	
 	public void currentBatteryLife() {
-		//checks battery life on Kart
+		//checks battery life on cart
 	}
 }

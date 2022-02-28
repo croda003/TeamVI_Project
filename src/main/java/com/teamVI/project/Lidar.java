@@ -16,10 +16,10 @@ public class Lidar extends Computer {
 	
 	
 	public void on() {
-		//
+		//Turns Lidar ON
 	}
 	public void off() {
-		//
+		//Turns Lidar OFF
 	}
 
 }

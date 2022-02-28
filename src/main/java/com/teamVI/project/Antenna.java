@@ -16,10 +16,10 @@ public class Antenna extends Computer {
 	
 	
 	public void detectFOB() {
-		//
+		//detects FOB removal and distance
 	}
 	public void setgeofence() {
-		//
+		//sets geographical area for frequency transmission
 	}
 	
 
