@@ -3,7 +3,7 @@
  */
 package com.teamVI.project;
 
-/**
+/**Barcode Scanner Class
  * @author crodas
  *
  */

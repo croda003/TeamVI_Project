@@ -1,6 +1,6 @@
 package com.teamVI.project;
 
-/**
+/**Weight Tracker Class
  * @author crodas
  *
  */

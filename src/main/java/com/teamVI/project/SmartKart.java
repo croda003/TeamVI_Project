@@ -4,7 +4,7 @@
 package com.teamVI.project;
 
 /**
- * Smart Kart Class
+ * Smart Kart Class and Main class
  * @author crodas
  *
  */

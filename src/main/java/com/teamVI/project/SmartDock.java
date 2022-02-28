@@ -3,7 +3,7 @@
  */
 package com.teamVI.project;
 
-/**
+/**Smart Dock Class
  * @author crodas
  *
  */

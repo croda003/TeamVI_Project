@@ -3,7 +3,7 @@
  */
 package com.teamVI.project;
 
-/**
+/**Computer class
  * @author crodas
  *
  */

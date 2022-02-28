@@ -3,7 +3,7 @@
  */
 package com.teamVI.project;
 
-/**
+/**Electric Motor Class
  * @author crodas
  *
  */

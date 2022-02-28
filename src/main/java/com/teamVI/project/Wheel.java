@@ -3,7 +3,7 @@
  */
 package com.teamVI.project;
 
-/**
+/**Electric Brake Class
  * @author crodas
  *
  */
